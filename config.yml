@@ -1,0 +1,4 @@
+# Global Mute v1.0 by PresentingTulip
+
+#Changes message that player gets when they are muted
+playernochatmessage: 'The global chat is muted!'

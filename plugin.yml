@@ -1,0 +1,7 @@
+main: xyz.tulipplugins.globalmute.GlobalMuteMain
+version: 1.0
+name: GlobalMute
+commands:
+  globalmute:
+    description: Mutes the chat
+    permission: globalmute.globalmute
